@@ -1,0 +1,7 @@
+{
+    "token": "Le token du bot ",
+    "color": "Couleur de l'embed ",
+    "image": "Image pour les menus",
+    "prefix": "Votre prefix",
+    "idWL": ["Id de la personne qui peut l'use","",""]
+}
